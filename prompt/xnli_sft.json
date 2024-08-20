@@ -1,0 +1,27 @@
+{
+    "Arabic": {
+      "instruction": "حدد العلاقة بين المقدمة والفرض. اختر '0' إذا افتراضيت المقدمة أن الفرض صحيح، '2' إذا افتراضيت أنها خطأ، و'1' إذا لم ت المقدمة على الإطلاق.",
+      "input": "المقدمة: ***Premise***\nالفرض: ***Hypothesis***",
+      "output": "***Label***"
+    },
+    "Russian": {
+      "instruction": "Определите связь между предложением и гипотезой. Выберите '0', если предпосылка подразумевает, что гипотеза верна, '2', если предпосылка подразумевает, что гипотеза ложна, и '1', если предпосылка не подразумевает истины или ложности гипотезы.",
+      "input": "Предпосылка: ***Premise***\nГипотеза: ***Hypothesis***",
+      "output": "***Label***"
+    },
+    "Vietnamese": {
+      "instruction": "Xác định mối quan hệ giữa tiền đề và giả thuyết. Chọn '0' nếu tiền đề ngụ ý rằng giả thuyết là đúng, '2' nếu tiền đề ngụ ý rằng giả thuyết là sai, và '1' nếu tiền đề không ngụ ý sự đúng hoặc sai của giả thuyết.",
+      "input": "Tiền đề: ***Premise***\nGiả thuyết: ***Hypothesis***",
+      "output": "***Label***"
+    },
+    "Chinese": {
+      "instruction": "确定给定前提和假设之间的关系。如果前提意味着假设是真的，请选择'0'；如果前提意味着假设是假的，请选择'2'；如果前提不意味着假设的真假，请选择'1'。",
+      "input": "前提: ***Premise***\n假设: ***Hypothesis***",
+      "output": "***Label***"
+    },
+    "English": {
+      "instruction": "Determine the relationship between the given premise and hypothesis. Choose '0' if the premise implies the hypothesis is true, '2' if the premise implies the hypothesis is false, and '1' if the premise does not imply the truth or falsity of the hypothesis.",
+      "input": "Premise: ***Premise***\nHypothesis: ***Hypothesis***",
+      "output": "***Label***"
+    }
+  }
